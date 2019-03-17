@@ -1,0 +1,1 @@
+Linked list implementation in Ruby with numerous functions (view FUNCTIONS.md for more details).
